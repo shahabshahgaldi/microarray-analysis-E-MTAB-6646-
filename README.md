@@ -23,7 +23,7 @@ Packages are automatically checked/installed by the script.
 Usage:
 
 1. Clone the repository:
-git clone https://github.com/shahabshahgaldi/microarray-analysis-E-MTAB-6646-
+git clone https://github.com/shahabshahgaldi/microarray-analysis-E-MTAB-6646-.git
 2. Open agilent_microarray_analysis.R in R or RStudio.
 3. Update the setwd() line to point to your local directory containing raw Agilent .txt files.
 4. Run the script.
